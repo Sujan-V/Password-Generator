@@ -26,7 +26,7 @@ This app allows users to generate secure passwords with custom configurations li
 
 📸 Preview
 
-[Live Demo](https://your-username.github.io/password-generator/) <!-- Replace with your actual GitHub Pages link -->
+[Live Demo](https://sujan-v.github.io/Password-Generator/) <!-- Replace with your actual GitHub Pages link -->
 
 
  📂 How to Use
